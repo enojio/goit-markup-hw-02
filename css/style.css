@@ -181,7 +181,7 @@ footer {
 footer a {
   color: var(--sec-color);
 }
-.footer address {
+.footer li:first-child a {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
