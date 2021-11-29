@@ -199,6 +199,7 @@ footer a {
 }
 .btn-filter:hover {
   background: var(--btn-hover);
+  color: var(--white-color);
 }
 .portfolio-item {
   font-style: normal;
